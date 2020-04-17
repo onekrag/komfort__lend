@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Manrope';
+    src        : local('Manrope Semibold'), local('Manrope-Semibold'), url('../fonts/manrope/Manropesemibold.woff2') format('woff2'), url('../fonts/manrope/Manropesemibold.woff') format('woff'), url('../fonts/manrope/Manropesemibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style : normal;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src        : local('Manrope Medium'), local('Manrope-Medium'), url('../fonts/manrope/Manropemedium.woff2') format('woff2'), url('../fonts/manrope/Manropemedium.woff') format('woff'), url('../fonts/manrope/Manropemedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style : normal;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src        : local('Manrope Thin'), local('Manrope-Thin'), url('../fonts/manrope/Manropethin.woff2') format('woff2'), url('../fonts/manrope/Manropethin.woff') format('woff'), url('../fonts/manrope/Manropethin.ttf') format('truetype');
+    font-weight: 100;
+    font-style : normal;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src        : local('Manrope Light'), local('Manrope-Light'), url('../fonts/manrope/Manropelight.woff2') format('woff2'), url('../fonts/manrope/Manropelight.woff') format('woff'), url('../fonts/manrope/Manropelight.ttf') format('truetype');
+    font-weight: 300;
+    font-style : normal;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src        : local('Manrope Regular'), local('Manrope-Regular'), url('../fonts/manrope/Manroperegular.woff2') format('woff2'), url('../fonts/manrope/Manroperegular.woff') format('woff'), url('../fonts/manrope/Manroperegular.ttf') format('truetype');
+    font-weight: 400;
+    font-style : normal;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src        : local('Manrope Bold'), local('Manrope-Bold'), url('../fonts/manrope/Manropebold.woff2') format('woff2'), url('../fonts/manrope/Manropebold.woff') format('woff'), url('../fonts/manrope/Manropebold.ttf') format('truetype');
+    font-weight: 700;
+    font-style : normal;
+}
+@font-face {
+    font-family: 'BebasNeue';
+    src        : local('BebasNeue Bold'), local('BebasNeue Bold'), url('../fonts/BebasNeue/BebasNeueBold.woff') format('woff'), url('../fonts/BebasNeue/BebasNeueBold.ttf') format('truetype');
+    font-weight: 700;
+    font-style : normal;
+}
