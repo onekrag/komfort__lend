@@ -191,6 +191,7 @@
   box-shadow: 0px 2px 4px 0 rgba(0, 0, 0, 0.35);
   border-radius: 8px;
   border: none;
+  font-size: 16px;
   color: #ffff;
 }
 .section__header .right__section .section__header-btn:hover {
@@ -365,6 +366,7 @@
   box-shadow: 0px 2px 4px 0 rgba(0, 0, 0, 0.35);
   border-radius: 8px;
   border: none;
+  font-size: 16px;
   color: #ffff;
 }
 .price__item .price__btn:hover {
@@ -441,6 +443,7 @@
   box-shadow: 0px 2px 4px 0 rgba(0, 0, 0, 0.35);
   border-radius: 8px;
   border: none;
+  font-size: 16px;
   color: #ffff;
 }
 .offer__form .offer__btn:hover {
@@ -620,6 +623,7 @@
   box-shadow: 0px 2px 4px 0 rgba(0, 0, 0, 0.35);
   border-radius: 8px;
   border: none;
+  font-size: 166px;
   color: #ffff;
 }
 .portfolio__btn:hover {
@@ -1151,6 +1155,7 @@
   box-shadow: 0px 2px 4px 0 rgba(0, 0, 0, 0.35);
   border-radius: 8px;
   border: none;
+  font-size: 16px;
   color: #ffff;
 }
 .popup__btn:hover {
