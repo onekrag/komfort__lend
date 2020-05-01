@@ -61,12 +61,12 @@
   margin-top: 10px;
 }
 .header__top .messegers .viber__header {
-  background: url(/src/img/Viber.png) no-repeat;
+  background: url(src/img/Viber.png) no-repeat;
   background-size: contain;
   margin-right: 15px;
 }
 .header__top .whatsapp__header {
-  background: url(/src/img/WhatsApp.png) no-repeat;
+  background: url(src/img/WhatsApp.png) no-repeat;
   background-size: contain;
 }
 .header__top .header__btn {
@@ -217,7 +217,7 @@
 .section__header .left__section .left__offer::before {
   content: '';
   display: inline-block;
-  background: url(/src/img/check.png);
+  background: url(src/img/check.png);
   background-size: cover;
   width: 30px;
   height: 30px;
@@ -322,7 +322,7 @@
 .price__item ul .item__list::before {
   content: '';
   display: inline-block;
-  background: url(/src/img/check.png);
+  background: url(src/img/check.png);
   background-size: cover;
   width: 20px;
   height: 20px;
@@ -588,7 +588,7 @@
 .portfolio__list li::before {
   content: '';
   display: inline-block;
-  background: url(/src/img/check.png);
+  background: url(src/img/check.png);
   background-size: cover;
   width: 20px;
   height: 20px;
