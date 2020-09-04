@@ -323,7 +323,7 @@
 .price__item ul .item__list::before {
   content: '';
   display: inline-block;
-  background: url(src/img/check.png);
+  background: url(../img/check.png);
   background-size: cover;
   width: 20px;
   height: 20px;
@@ -591,7 +591,7 @@
 .portfolio__list li::before {
   content: '';
   display: inline-block;
-  background: url(src/img/check.png);
+  background: url(/img/check.png);
   background-size: cover;
   width: 20px;
   height: 20px;
