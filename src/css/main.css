@@ -498,6 +498,7 @@
   font-size: 14px;
   opacity: 0.6;
   margin: 10px 42%;
+  white-space: nowrap;
 }
 .portfolio .wrapper {
   border-bottom: 1px solid #DFE9F2;
@@ -603,6 +604,7 @@
 }
 .portfolio__list__description {
   font-weight: bold;
+  white-space: nowrap;
 }
 .portfolio__description__inner {
   display: flex;
