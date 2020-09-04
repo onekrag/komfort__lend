@@ -218,7 +218,7 @@
 .section__header .left__section .left__offer::before {
   content: '';
   display: inline-block;
-  background: url(src/img/check.png);
+  background: url(../img/check.png);
   background-size: cover;
   width: 30px;
   height: 30px;
