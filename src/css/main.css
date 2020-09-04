@@ -61,7 +61,7 @@
   margin-top: 10px;
 }
 .header__top .messegers .viber__header {
-  background: url(src/img/Viber.png) no-repeat;
+  background: url(../img/Viber.png) no-repeat;
   background-size: contain;
   margin-right: 15px;
 }
